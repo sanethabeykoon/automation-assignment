@@ -1,11 +1,11 @@
 **Technologies Used**
 
-Programming language: Java (v 1.8.0)
-Build and dependency management: Maven (v 3.5.3)
-API testing: REST Assured (v 3.0.3)
-JSONPath: json-path (v 2.4.0)
-Unit testing: TestNG (v 6.14.3)
-IDE: Eclipse (v Oxygen.2)
+- Programming language: Java (v 1.8.0)
+- Build and dependency management: Maven (v 3.5.3)
+- API testing: REST Assured (v 3.0.3)
+- JSONPath: json-path (v 2.4.0)
+- Unit testing: TestNG (v 6.14.3)
+- IDE: Eclipse (v Oxygen.2)
 
 **Technical Approach**
 
