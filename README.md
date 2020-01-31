@@ -9,7 +9,7 @@ To import the project:
 
 1.	Go to File > Import…
 2.	Maven > Existing Maven Projects 
-3.	Browse the codebase and select the directory where the pom.xml is available
+3.	Browse the checked out codebase and select the directory where the pom.xml is available
 4.	Finish
 
 To execute the test:
